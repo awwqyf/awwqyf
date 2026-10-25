@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Aaqif Hussain Mattoo 👋
+**Economics & Data Science | Econometric Modeling • Credit Risk Analytics • Time Series Forecasting**
 
-<!--
-**awwqyf/awwqyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in bridging quantitative economic theory with production data science—building interpretable statistical models for financial risk appraisal, time-series forecasting, and policy evaluation.
 
-Here are some ideas to get you started:
+#### 🛠️ Technical Stack
+- **Languages:** Python, R, SQL
+- **Econometrics & Stats:** ARIMA/SARIMAX, GARCH, Panel Data, Causal Inference (DiD, PSM), Hypothesis Testing
+- **Machine Learning & Risk:** Scikit-Learn, Credit Scorecard Modeling (WoE/IV, PD/LGD), Gradient Boosting
+- **Tools:** VS Code, RStudio, Git, Pandas, NumPy, Statsmodels, Matplotlib/Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📌 Featured Repositories
+- 📊 **[credit-risk-pd-engine](https://github.com/awwqyf/credit-risk-pd-engine)** — End-to-end Probability of Default (PD) & 300–900 Credit Scorecard engine using Weight of Evidence (WoE), Information Value (IV), Econometric Logit, and Gradient Boosting.
